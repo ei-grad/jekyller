@@ -11,11 +11,11 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Vadim Makeev
-    url:  http://pepelsbey.net/
+    name: Andrew Grigorev
+    url:  https://github.com/ei-grad
     company:
-        name: Opera Software
-        url:  http://opera.com
+        name: Yandex
+        url:  http://www.yandex.ru
 
-fork_url: https://github.com/shower/shower
+fork_url: https://github.com/ei-grad/jekyller
 progress: true
